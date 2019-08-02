@@ -1,0 +1,4 @@
+D:\Projects\TutorialSFBasics\StatelssApp\obj\Debug\netcoreapp3.0\win7-x64\StatelssApp.csprojAssemblyReference.cache
+D:\Projects\TutorialSFBasics\StatelssApp\obj\Debug\netcoreapp3.0\win7-x64\StatelssApp.csproj.CoreCompileInputs.cache
+D:\Projects\TutorialSFBasics\StatelssApp\obj\Debug\netcoreapp3.0\win7-x64\StatelssApp.AssemblyInfoInputs.cache
+D:\Projects\TutorialSFBasics\StatelssApp\obj\Debug\netcoreapp3.0\win7-x64\StatelssApp.AssemblyInfo.cs
